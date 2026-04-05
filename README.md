@@ -9,3 +9,9 @@ I do not need recognition when you publish your music, however a "thanks" is alw
 
 
 This repository functions both as a sharing platform as well as a personal backup of these Patches.
+
+In case you come across some of my aliases in the files, to verify this is me.
+Aliases used:
+- Ursus Polaris (stage Name)
+- Bjorn V
+- BjornTHV
