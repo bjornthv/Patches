@@ -22,4 +22,4 @@ Aliases used:
 - Spotify: https://open.spotify.com/artist/6ECGVfwZS8VP5hAcDEgB4t?si=uF9dmf2eTCqfYxK8B3v7CA
 
 # Help me, but only if you can and want.
-- Ko-fi: ko-fi.com/bjornthv (Send me a tip or share it forward)
+- Ko-fi: https://ko-fi.com/bjornthv (Send me a tip or share it forward)
