@@ -6,3 +6,6 @@ These are made for projects that i have made, or by request.
 None of these patches have been bought or aquired.
 
 I do not need recognition when you publish your music, however a "thanks" is always appreciated!
+
+
+This repository functions both as a sharing platform as well as a personal backup of these Patches.
